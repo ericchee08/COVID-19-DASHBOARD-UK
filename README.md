@@ -2,6 +2,6 @@
 
 Code Link: https://github.com/ericchee08/COVID-19-DASHBOARD-UK/blob/master/notebooks/UK%20Region%20Covid%2019.ipynb
 
-Dashboard Link: https://ericchee-covid19.herokuapp.com/ 
+Dashboard Link: https://ericchee-covid19-uk.herokuapp.com/
 
-Source Data: https://github.com/CSSEGISandData/COVID-19
+Source Data: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/
